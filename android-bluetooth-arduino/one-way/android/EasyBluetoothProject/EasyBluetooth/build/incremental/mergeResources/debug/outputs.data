@@ -1,12 +1,12 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1376249118000 321 5f7d7ee944a70c3f0aaa9b3a42cd348c64a6106b /home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/values-sw720dp-land/values.xml
-1376249118000 3121 c13193c37274d333ac028cc72c260b891662d9d0 /home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/drawable-mdpi/ic_launcher.png
-1376249118000 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c /home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/drawable-xhdpi/ic_launcher.png
-1376249118000 384 b20e7c32d8c844952a3212b51306b6b2030db7d0 /home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/values-v11/values.xml
-1376249118000 1561 b4a461be0fc4f973c379f614dbb33c0fcad7d988 /home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/values/values.xml
-1376249118000 2371 7791944e8d7ff613c37cc7772329c94041427186 /home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/layout/activity_main.xml
-1376249118000 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 /home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/drawable-hdpi/ic_launcher.png
-1376249118000 17765 702fd3311475c099afc13c0b03375d917cc82018 /home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1376249118000 418 8bc4044087ebb17cab268f56716bebf00281d9eb /home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/menu/main.xml
+1386613526000 401 06b5447271be3ed0b49690b436ae655e145e70b6 /home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/menu/main.xml
+1386614176000 325 4eba4ab2a82e10f2cf7a8d541f506d5fdaaa4359 /home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/values-sw720dp-land/values.xml
+1386613263000 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 /home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1386613526000 2354 8ea1b8798c6c38ef73959380b4e043dc4f80ac88 /home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/layout/activity_main.xml
+1386613263000 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c /home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1386614176000 1573 1d1b61898ec902e0b2a408446ece5553b8975f94 /home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/values/values.xml
+1386613263000 3121 c13193c37274d333ac028cc72c260b891662d9d0 /home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1386614176000 388 e88d4be55c0340f4de575541495c5be6577f0f8d /home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/values-v11/values.xml
+1386613263000 17765 702fd3311475c099afc13c0b03375d917cc82018 /home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/build/res/all/debug/drawable-xxhdpi/ic_launcher.png

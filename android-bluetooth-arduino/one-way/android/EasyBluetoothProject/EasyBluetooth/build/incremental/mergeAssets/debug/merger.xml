@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/src/main/assets" />
+        <source path="/home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/home/dmitrydzz/dev/workspaces/robot-mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/src/debug/assets" />
+        <source path="/home/dmitrydzz/dev/mitya/samples/android-bluetooth-arduino/one-way/android/EasyBluetoothProject/EasyBluetooth/src/debug/assets" />
     </dataSet>
 
 </merger>
